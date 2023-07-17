@@ -20,6 +20,8 @@ header {
     background-color: black;
 }
 
+/* Make your p tag a different color and italic */
+
 footer {
     color: antiquewhite;
     background-color: black;
@@ -28,8 +30,33 @@ footer {
     margin-top: auto;
 }
 
-/* Make your p tag a different color and italic */
-
 /* Put a border around your image */
 
+img {
+    border: 10px solid whitesmoke;
+    position: relative;
+    top: 50px;
+    left: 50px;
+
+    
+}
+
+.container {
+    position: relative;
+
+}
+
+.container img {
+    position: relative;
+    top: 5;
+    left: 5;
+
+}
+
 /* Change the font-family of your list */
+
+ul {
+    font-family: sans-serif;
+    padding-top: 250px;
+    padding-left: 50px;
+}
