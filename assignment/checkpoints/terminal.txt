@@ -2,7 +2,7 @@
 
 # 1 - What is the command for listing the files in the current folder (directory)?
 
-    'pwd' 
+    'ls' 
 
 # 2 - What is the command for changing directories?
 
