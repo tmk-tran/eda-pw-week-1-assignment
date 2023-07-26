@@ -52,7 +52,7 @@ img {
 
 /* Change the font-family of your list */
 
-li {
+ul {
     font-family: sans-serif;
     padding-top: 50px;
     padding-left: 50px;
