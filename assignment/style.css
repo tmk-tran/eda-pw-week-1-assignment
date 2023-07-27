@@ -52,17 +52,13 @@ img {
 
 /* Change the font-family of your list */
 
-ul {
+li {
     font-family: sans-serif;
-    padding-top: 50px;
-    padding-left: 50px;
-    margin-top: 100px;
-    margin-left: 50px;
 }
 
 h2 {
     font-family: fantasy;
-    position: absolute;
+    position: relative;
     margin-top: 100px;
     margin-left: 50px;
 }
